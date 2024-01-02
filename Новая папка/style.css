@@ -1,0 +1,47 @@
+header{
+    border: solid 1px black;
+    background-color: rgb(255, 166, 2);
+border-radius: 10px;
+margin-top:  1px; 
+}
+h1{
+text-align: center;
+margin-top: 1px;
+border: solid 0px rgb(255, 255, 255);
+background-color: rgb(255, 166, 2);
+border-radius: 10px;
+
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+a{  border-radius: 15px;
+    padding: .2em .8em;
+    outline: none;
+    border-right: 1px solid rgb(255, 255, 255);
+    border-top: 1px solid rgba(270,278,287,.01);
+    background-color: rgb(255, 255, 255);
+     font-size: 20px;
+    margin: 3px;
+        text-decoration: none;
+        display: inline-block;
+    color: rgb(0, 0, 0);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+body{
+background-image: url("iOS_13_iPad_Orange_Abstract_HD_Design_1920x1440.jpg") ;
+}
+p{ text-align: center;
+    border-radius: 30px;
+    border: solid 1px black;
+    margin-left: 650px;
+    margin-top: -500px;
+font-size: 30px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: rgb(255, 195, 84);
+}
+#fotki{
+    margin-top: 500px;
+}
+#fotka2{
+    margin-top: 500px;
+}
